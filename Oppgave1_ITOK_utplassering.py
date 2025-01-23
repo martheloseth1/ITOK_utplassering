@@ -1,0 +1,3 @@
+# ITOK
+
+# Oppgave om sviktfunksjoner
